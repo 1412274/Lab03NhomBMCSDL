@@ -1,0 +1,43 @@
+D:\code\IsComing\1412430\QLSV\bin\Debug\QLSV.exe.config
+D:\code\IsComing\1412430\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+D:\code\IsComing\1412430\QLSV\obj\Debug\QLSV.Form1.resources
+D:\code\IsComing\1412430\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\code\IsComing\1412430\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache
+D:\code\IsComing\1412430\QLSV\bin\Debug\QLSV.exe
+D:\code\IsComing\1412430\QLSV\bin\Debug\QLSV.pdb
+D:\code\IsComing\1412430\QLSV\obj\Debug\QLSV.exe
+D:\code\IsComing\1412430\QLSV\obj\Debug\QLSV.pdb
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-cá nhân\1412430\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-cá nhân\1412430\QLSV\obj\Debug\QLSV.exe
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-cá nhân\1412430\QLSV\obj\Debug\QLSV.pdb
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\1412430\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\1412430\QLSV\obj\Debug\QLSV.exe
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\1412430\QLSV\obj\Debug\QLSV.pdb
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\1412430\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\1412430\QLSV\obj\Debug\QLSV.GUI.FormDangNhap.resources
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\1412430\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\1412430\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\1412430\QLSV\bin\Debug\QLSV.exe
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\1412430\QLSV\bin\Debug\QLSV.pdb
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\1412430\QLSV\obj\Debug\QLSV.GUI.FormQLyLopHoc.resources
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\1412430\QLSV\obj\Debug\QLSV.GUI.UserControlBangDiem.resources
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\1412430\QLSV\obj\Debug\QLSV.GUI.UserControlHocPhan.resources
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\1412430\QLSV\obj\Debug\QLSV.GUI.UserControlLopHoc.resources
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\1412430\QLSV\obj\Debug\QLSV.GUI.UserControlSinhVien.resources
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\QLSVNhom\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\QLSVNhom\QLSV\obj\Debug\QLSV.exe
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\QLSVNhom\QLSV\obj\Debug\QLSV.pdb
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\QLSVNhom\QLSV\bin\Debug\QLSV.exe
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\QLSVNhom\QLSV\bin\Debug\QLSV.pdb
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\QLSVNhom\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\QLSVNhom\QLSV\obj\Debug\QLSV.GUI.FormDangNhap.resources
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\QLSVNhom\QLSV\obj\Debug\QLSV.GUI.FormQLyLopHoc.resources
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\QLSVNhom\QLSV\obj\Debug\QLSV.GUI.UserControlBangDiem.resources
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\QLSVNhom\QLSV\obj\Debug\QLSV.GUI.UserControlHocPhan.resources
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\QLSVNhom\QLSV\obj\Debug\QLSV.GUI.UserControlLopHoc.resources
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\QLSVNhom\QLSV\obj\Debug\QLSV.GUI.UserControlSinhVien.resources
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\QLSVNhom\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\VuQuang\Desktop\DataSecurity\31-05-2017\lab3-nhóm\QLSVNhom\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\lab34nhom\lab3-nhóm\QLSVNhom\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\admin\Downloads\lab34nhom\lab3-nhóm\QLSVNhom\QLSV\obj\Debug\QLSV.exe
+C:\Users\admin\Downloads\lab34nhom\lab3-nhóm\QLSVNhom\QLSV\obj\Debug\QLSV.pdb
