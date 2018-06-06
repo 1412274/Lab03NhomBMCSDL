@@ -1,6 +1,6 @@
 ﻿namespace Lab03Nhom
 {
-    partial class SinhVien
+    partial class DanhSachLop
     {
         /// <summary>
         /// Required designer variable.
@@ -36,29 +36,29 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(75, 47);
+            this.dataGridView1.Location = new System.Drawing.Point(62, 72);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(350, 150);
+            this.dataGridView1.Size = new System.Drawing.Size(430, 150);
             this.dataGridView1.TabIndex = 0;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(178, 13);
+            this.label1.Location = new System.Drawing.Point(121, 13);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(104, 13);
+            this.label1.Size = new System.Drawing.Size(76, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Danh sách sinh viên";
+            this.label1.Text = "Danh sách lớp";
             // 
-            // SinhVien
+            // DanhSachLop
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(532, 261);
+            this.ClientSize = new System.Drawing.Size(540, 290);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dataGridView1);
-            this.Name = "SinhVien";
-            this.Text = "SinhVien";
+            this.Name = "DanhSachLop";
+            this.Text = "DanhSachLop";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

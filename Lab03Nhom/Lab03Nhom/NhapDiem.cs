@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Lab03Nhom
 {
-    public partial class SinhVien : Form
+    public partial class NhapDiem : Form
     {
-        public SinhVien()
+        public NhapDiem()
         {
             InitializeComponent();
         }

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Lab03Nhom
 {
-    public partial class ChucNang : Form
+    public partial class DanhSachLop : Form
     {
-        public ChucNang()
+        public DanhSachLop()
         {
             InitializeComponent();
         }
