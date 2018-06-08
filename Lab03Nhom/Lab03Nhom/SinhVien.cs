@@ -242,5 +242,17 @@ namespace Lab03Nhom
             }
 
         }
+
+        private void btn_NhapDIem_Click(object sender, EventArgs e)
+        {
+            int CurrentIndex = dg_DSSV.CurrentCell.RowIndex;
+            string MASV = Convert.ToString(dg_DSSV.Rows[CurrentIndex].Cells[0].Value.ToString());
+            string HOTEN = Convert.ToString(dg_DSSV.Rows[CurrentIndex].Cells[1].Value.ToString());
+            string MALOP = Convert.ToString(dg_DSSV.Rows[CurrentIndex].Cells[4].Value.ToString());
+
+            NhapDiem formnd = new NhapDiem(MASV, HOTEN, MALOP);
+            formnd.ShowDialog();
+
+        }
     }
 }
