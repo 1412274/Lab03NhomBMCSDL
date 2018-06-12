@@ -34,6 +34,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
+            this.buttonXemDiemSV = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -86,11 +87,22 @@
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 5;
             // 
+            // buttonXemDiemSV
+            // 
+            this.buttonXemDiemSV.Location = new System.Drawing.Point(109, 12);
+            this.buttonXemDiemSV.Name = "buttonXemDiemSV";
+            this.buttonXemDiemSV.Size = new System.Drawing.Size(75, 23);
+            this.buttonXemDiemSV.TabIndex = 6;
+            this.buttonXemDiemSV.Text = "Màn hình xem điểm sinh viên";
+            this.buttonXemDiemSV.UseVisualStyleBackColor = true;
+            this.buttonXemDiemSV.Click += new System.EventHandler(this.buttonXemDiemSV_Click);
+            // 
             // DangNhap
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Controls.Add(this.buttonXemDiemSV);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label2);
@@ -112,6 +124,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.Button buttonXemDiemSV;
     }
 }
 

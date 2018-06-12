@@ -16,5 +16,12 @@ namespace Lab03Nhom
         {
             InitializeComponent();
         }
+
+        private void buttonXemDiemSV_Click(object sender, EventArgs e)
+        {
+            NhapDiem nd = new NhapDiem();
+
+            nd.Show();
+        }
     }
 }
