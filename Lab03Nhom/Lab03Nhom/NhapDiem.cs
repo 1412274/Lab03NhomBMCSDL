@@ -13,18 +13,31 @@ namespace Lab03Nhom
 {
     public partial class NhapDiem : Form
     {
-        String connectionString = "Data Source=DESKTOP-BD4IRUN\\SQLSERVER2017;Initial Catalog=QLSVN;Integrated Security=True";
+        String connectionString = @"Data Source=KIM;Initial Catalog=QLSVN;Integrated Security=True";
+        String MaSV = null;
+        String HoTen = null;
+        String MaLop = null;
+        String MaNVDN = null;
 
         public NhapDiem()
         {
             InitializeComponent();
         }
 
+        public NhapDiem(String _MaSV, String _HoTen, String _MaLop, String _MaNVDN)
+        {
+            InitializeComponent();
+            this.MaSV = _MaSV;
+            this.HoTen = _HoTen;
+            this.MaLop = _MaLop;
+            this.MaNVDN = _MaNVDN;
+        }
+
         private void NhapDiem_Load(object sender, EventArgs e)
         {
-            this.textBoxMaSinhVien.Text = "SV01";
-            this.textBoxHoTen.Text = "ABC";
-            this.textBoxMaLop.Text = "LOP1";
+            this.textBoxMaSinhVien.Text = MaSV;
+            this.textBoxHoTen.Text = HoTen;
+            this.textBoxMaLop.Text = MaLop;
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
@@ -65,7 +78,7 @@ namespace Lab03Nhom
 
                 command.Parameters["@MASV"].Value = this.textBoxMaSinhVien.Text;
                 command.Parameters["@MK"].Value = this.textBoxMatKhau.Text;
-                command.Parameters["@PUBKEY"].Value = "NV01";
+                command.Parameters["@PUBKEY"].Value = MaNVDN;
 
                 SqlDataReader reader;
                 DataTable table = new DataTable();
@@ -101,7 +114,7 @@ namespace Lab03Nhom
 
                 command.Parameters["@MASV"].Value = this.textBoxMaSinhVien.Text;
                 command.Parameters["@MAHP"].Value = this.comboBoxDSHocPhan.SelectedValue;
-                command.Parameters["@PUBKEY"].Value = "NV01";
+                command.Parameters["@PUBKEY"].Value = MaNVDN;
                 command.Parameters["@DIEMTHI"].Value = this.textBoxDiem.Text;
                 command.Parameters["@KQ"].Value = 0;
 
