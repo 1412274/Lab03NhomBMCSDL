@@ -41,7 +41,7 @@ namespace Lab03Nhom
             sv.ShowDialog();
         }
 
-        string connectstring = "Data Source=KIM;Initial Catalog=QLSVN;Integrated Security=True";
+        string connectstring = ConnectString.GetConnection();
 
         private void DanhSachLop_Load(object sender, EventArgs e)
         {

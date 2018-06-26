@@ -28,7 +28,7 @@ namespace Lab03Nhom
             dsl.ShowDialog();
         }
 
-        string connectstring = "Data Source=KIM;Initial Catalog=QLSVN;Integrated Security=True";
+        string connectstring = ConnectString.GetConnection();
         private void btnlogin_Click(object sender, EventArgs e)
         {
             SqlConnection connection = new SqlConnection(connectstring);
